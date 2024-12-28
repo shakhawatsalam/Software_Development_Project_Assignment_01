@@ -1,0 +1,24 @@
+body {
+  background-color: #1a1a1a;
+}
+.banner_title {
+  font-size: 70px;
+}
+.carousel-item {
+  width: 461px !important;
+}
+/* .border {
+  border: 1px solid red !important;
+} */
+
+.datails {
+  width: 500px;
+}
+
+.logo_img {
+  width: 125px;
+  height: 125px;
+}
+.contact_me {
+  width: 500px;
+}
